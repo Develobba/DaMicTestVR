@@ -50,4 +50,8 @@ Ebenfalls haben die Nutzer und Betroffenen nach Art. 21 DSGVO das Recht auf Wide
 
 III. Informationen zur Datenverarbeitung
 
+Es werden mit der Nutzung der Applikation keine benutzerbezogene Daten gesammelt, gespeichert, weitergeleitet oder verarbeitet. 
+
 Ihre bei Nutzung unseres Internetauftritts verarbeiteten Daten werden gelöscht oder gesperrt, sobald der Zweck der Speicherung entfällt, der Löschung der Daten keine gesetzlichen Aufbewahrungspflichten entgegenstehen und nachfolgend keine anderslautenden Angaben zu einzelnen Verarbeitungsverfahren gemacht werden.
+
+
