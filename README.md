@@ -2,7 +2,7 @@
 
 Erhältlich für Oculus Quest 2.
 
-Link: ---coming soon---
+Link: https://www.oculus.com/experiences/quest/4574770819225603/
 
 # Datenschutzerklärung
 
